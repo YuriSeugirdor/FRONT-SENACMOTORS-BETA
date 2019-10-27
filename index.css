@@ -104,16 +104,18 @@ figure.foto-legenda figcaption{
 }
 figure.foto-legenda:hover figcaption{
   opacity: 1;
-  color:#BDBDBD;
+  color:#A4A4A4;
 
 }
 
 figure.foto-legenda a {
   opacity: 1;
   font-family: 'Anton', sans-serif;
-  color: #E6E6E6;
+  color: #848484;
   text-decoration:none;
 
-
-
+}
+/*PG VEICULOS*/
+div#vei a{
+  color: gray;
 }
